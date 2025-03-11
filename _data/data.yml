@@ -90,17 +90,6 @@ experiences:
       - Directed club activities, fostering strategic gameplay development.
       - Organized and led tournaments, workshops, and events.
       - Mentored junior members, ensuring an inclusive and supportive environment.
-projects:
-  title: Projects
-  info:
-  - title: Anime Chatbot – Open-Source AI Chatbot for Anime Knowledge
-    time: Jan 2025 – Present
-    link: "https://github.com/VMethone/anime_chatbot"
-    details: |
-      - Developed a knowledge-based AI chatbot specialized in anime-related queries, leveraging data scraping, NLP techniques, and vector databases.
-      - Implemented custom data crawlers to collect and process anime-related information from sources like Moegirlpedia.
-      - Designed a vector search-based database for efficient and accurate anime-related responses.
-      - Utilized Python (PyTorch, BeautifulSoup, FAISS) for chatbot implementation, data processing, and retrieval-augmented generation (RAG) techniques.
 
 skills:
   title: Skills & Proficiency
