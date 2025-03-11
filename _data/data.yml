@@ -94,7 +94,10 @@ experiences:
 projects:
   title: Projects
   intro: >
-    Highlighting key projects that showcase technical expertise and innovation.
+      - Developed a knowledge-based AI chatbot specialized in anime-related queries, leveraging data scraping, NLP techniques, and vector databases.
+      - Implemented custom data crawlers to collect and process anime-related information from sources like Moegirlpedia.
+      - Designed a vector search-based database for efficient and accurate anime-related responses.
+      - Utilized Python (PyTorch, BeautifulSoup, FAISS) for chatbot implementation, data processing, and retrieval-augmented generation (RAG) techniques.
 
   assignments:
   - title: Anime Chatbot – Open-Source AI Chatbot for Anime Knowledge
