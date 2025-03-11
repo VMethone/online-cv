@@ -92,7 +92,7 @@ experiences:
       - Mentored junior members, ensuring an inclusive and supportive environment.
 projects:
   title: Projects
-  assignments:
+  info:
   - title: Anime Chatbot – Open-Source AI Chatbot for Anime Knowledge
     time: Jan 2025 – Present
     link: "https://github.com/VMethone/anime_chatbot"
