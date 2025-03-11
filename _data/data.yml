@@ -12,8 +12,8 @@ sidebar:
   timezone: America/Toronto
   citizenship:
   website:
-  linkedin:
-  github:
+  linkedin: https://www.linkedin.com/in/yixiang-ying-79a35a251/?locale=en_US
+  github: https://github.com/VMethone
   telegram:
   gitlab:
   bitbucket:
@@ -42,14 +42,14 @@ sidebar:
   interests:
     title: Interests
     info:
-    - item: Artificial Intelligence
-    - item: Machine Learning
-    - item: Competitive Programming
+    - item: Bass
+    - item: Gaming
+    - item: Soccer
 
 career-profile:
   title: Career Profile
   summary: |
-    Passionate and highly motivated Computer Science student at the University of Toronto
+    Passionate and highly motivated First Year Computer Science student at the University of Toronto
     with a strong foundation in programming, computational theory, and mathematical concepts.
     Experienced in AI and machine learning research, with a keen interest in transformer-based models
     and speech recognition. Excels in problem-solving, teamwork, and leadership.
@@ -97,8 +97,6 @@ skills:
   - name: C++ / Java / JavaScript / Python
     level: Advanced
   - name: Machine Learning & AI
-    level: Intermediate
-  - name: Speech Recognition
     level: Intermediate
 
 footer: >
