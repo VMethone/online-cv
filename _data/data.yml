@@ -96,7 +96,6 @@ projects:
   - title: Anime Chatbot – Open-Source AI Chatbot for Anime Knowledge
     time: Jan 2025 – Present
     link: "https://github.com/VMethone/anime_chatbot"
-    tagline: "Developed an AI chatbot specialized in anime-related queries, leveraging NLP, data scraping, and vector databases."
     details: |
       - Developed a knowledge-based AI chatbot specialized in anime-related queries, leveraging data scraping, NLP techniques, and vector databases.
       - Implemented custom data crawlers to collect and process anime-related information from sources like Moegirlpedia.
