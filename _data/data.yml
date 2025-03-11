@@ -90,6 +90,18 @@ experiences:
       - Directed club activities, fostering strategic gameplay development.
       - Organized and led tournaments, workshops, and events.
       - Mentored junior members, ensuring an inclusive and supportive environment.
+      
+projects:
+  title: Projects
+  intro: >
+    Highlighting key projects that showcase technical expertise and innovation.
+
+  assignments:
+  - title: Anime Chatbot – Open-Source AI Chatbot for Anime Knowledge
+    time: Jan 2025 – Present
+    link: "https://github.com/VMethone/anime_chatbot"
+    tagline: "Developed an AI chatbot for anime-related queries using NLP, vector search, and web scraping (Python, PyTorch, FAISS)."
+
 
 skills:
   title: Skills & Proficiency
